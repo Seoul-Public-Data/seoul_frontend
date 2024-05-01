@@ -1,25 +1,40 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { RecoilRoot } from 'recoil';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import Home from './pages/Home';
+import EmergencyPage from './pages/Report';
+import RouteExplorer from './pages/RouteExplorer';
+import DetailRoute from './pages/DetailRoute';
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <Home />,
+  },
+  {
+    path: '/routes',
+    element: <RouteExplorer />,
+  },
+  {
+    path: '/route-detail',
+    element: <DetailRoute />,
+  },
+  {
+    path: '/report',
+    element: <EmergencyPage />,
+  },
+]);
+
+const queryClient = new QueryClient();
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <QueryClientProvider client={queryClient}>
+      <RecoilRoot>
+        <RouterProvider router={router} />
+      </RecoilRoot>
+    </QueryClientProvider>
   );
 }
 
