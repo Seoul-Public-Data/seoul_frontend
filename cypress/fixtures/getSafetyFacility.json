@@ -1,0 +1,572 @@
+[
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 2,
+        "lon": "126.9587905",
+        "lat": 37.6069117,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9588357",
+        "lat": 37.6067931,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9584906",
+        "lat": 37.6066431,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9584906",
+        "lat": 37.6066431,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9584906",
+        "lat": 37.6066431,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9584906",
+        "lat": 37.6066431,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9584788",
+        "lat": 37.6066026,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9582788",
+        "lat": 37.6065026,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9580161",
+        "lat": 37.6063059,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9577886",
+        "lat": 37.606156,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576789",
+        "lat": 37.6060218,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576789",
+        "lat": 37.6060218,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576789",
+        "lat": 37.6060218,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576789",
+        "lat": 37.6060218,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576593",
+        "lat": 37.6059875,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576241",
+        "lat": 37.6056753,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9576046",
+        "lat": 37.6055006,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9574870",
+        "lat": 37.6053757,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9574870",
+        "lat": 37.6053757,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9575223",
+        "lat": 37.605332,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9575577",
+        "lat": 37.6052821,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9575735",
+        "lat": 37.6051011,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9572519",
+        "lat": 37.6048638,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9571898",
+        "lat": 37.604713,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9570563",
+        "lat": 37.604613,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 1,
+        "lon": "126.9570563",
+        "lat": 37.6045888,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "구기동",
+        "road": "종로안심06",
+        "number": 2,
+        "lon": "126.9570563",
+        "lat": 37.6045888,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9590914",
+        "lat": 37.6045129,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9590914",
+        "lat": 37.6045129,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9590914",
+        "lat": 37.6045129,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9591489",
+        "lat": 37.6045083,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9593560",
+        "lat": 37.6044764,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9596091",
+        "lat": 37.6042836,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9596208",
+        "lat": 37.6042613,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9596667",
+        "lat": 37.6041989,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9597365",
+        "lat": 37.6041463,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9598627",
+        "lat": 37.6037671,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9599317",
+        "lat": 37.6037213,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9599317",
+        "lat": 37.6037213,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9599317",
+        "lat": 37.6037213,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9599030",
+        "lat": 37.6037076,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9600065",
+        "lat": 37.6035102,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9600355",
+        "lat": 37.6033323,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9601334",
+        "lat": 37.6030852,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9601334",
+        "lat": 37.6030852,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9601334",
+        "lat": 37.6030852,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 2,
+        "lon": "126.9601880",
+        "lat": 37.6029267,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9603982",
+        "lat": 37.6027786,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9605016",
+        "lat": 37.6027872,
+        "name": "노먼표기",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9603982",
+        "lat": 37.6027786,
+        "name": "112 위치 신고 안내",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9607585",
+        "lat": 37.6026994,
+        "name": "안심벨",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9607585",
+        "lat": 37.6026994,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9607585",
+        "lat": 37.6026994,
+        "name": "CCTV",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9608182",
+        "lat": 37.6026506,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9609851",
+        "lat": 37.6025866,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 1,
+        "lon": "126.9611577",
+        "lat": 37.6025683,
+        "name": "보안등",
+        "type": "safetyfacility"
+    },
+    {
+        "city": "서울특별시 종로구",
+        "dong": "신영동",
+        "road": "종로안심05",
+        "number": 2,
+        "lon": "126.9612152",
+        "lat": 37.6025729,
+        "name": "보안등",
+        "type": "safetyfacility"
+    }
+]

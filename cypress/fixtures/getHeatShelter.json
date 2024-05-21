@@ -1,0 +1,142 @@
+[
+    {
+        "name": "무학경로당",
+        "address": "서울특별시 성동구 왕십리로31길 29",
+        "longitude": 127.027357,
+        "latitude": 37.561712,
+        "type": "heatshelter"
+    },
+    {
+        "name": "한신무학(아) 경로당",
+        "address": "서울특별시 성동구 왕십리로31나길 22",
+        "longitude": 127.028547,
+        "latitude": 37.562203,
+        "type": "heatshelter"
+    },
+    {
+        "name": "풍림아파트 경로당",
+        "address": "서울특별시 성동구 난계로 84",
+        "longitude": 127.024686,
+        "latitude": 37.5586,
+        "type": "heatshelter"
+    },
+    {
+        "name": "안정경로당",
+        "address": "서울특별시 성동구 무학봉12길 3-11 ",
+        "longitude": 127.029587,
+        "latitude": 37.560401,
+        "type": "heatshelter"
+    },
+    {
+        "name": "왕십리제일경로당",
+        "address": "서울특별시 성동구  왕십리로31가길  12   (하왕십리동)",
+        "longitude": 127.028604,
+        "latitude": 37.563942,
+        "type": "heatshelter"
+    },
+    {
+        "name": "일심할머니경로당",
+        "address": "서울특별시 성동구 무학봉25길 9-9 ",
+        "longitude": 127.031239,
+        "latitude": 37.562575,
+        "type": "heatshelter"
+    },
+    {
+        "name": "왕십리제2경로당",
+        "address": "서울특별시 성동구 무학봉길 40",
+        "longitude": 127.027244,
+        "latitude": 37.560275,
+        "type": "heatshelter"
+    },
+    {
+        "name": "무학현대아파트 경로당",
+        "address": "서울특별시 성동구 무학봉길 49",
+        "longitude": 127.027856,
+        "latitude": 37.56114,
+        "type": "heatshelter"
+    },
+    {
+        "name": "금호베스트빌 모아경로당",
+        "address": "서울특별시 성동구 난계로 114-31 ",
+        "longitude": 127.02583,
+        "latitude": 37.561365,
+        "type": "heatshelter"
+    },
+    {
+        "name": "금호베스트빌 제1경로당",
+        "address": "서울특별시 성동구 난계로 114-31 ",
+        "longitude": 127.02583,
+        "latitude": 37.561365,
+        "type": "heatshelter"
+    },
+    {
+        "name": "일심경로당",
+        "address": "서울특별시 성동구 무학봉15라길 4",
+        "longitude": 127.030426,
+        "latitude": 37.562671,
+        "type": "heatshelter"
+    },
+    {
+        "name": "왕십리제2동주민센터",
+        "address": "서울특별시 성동구 무학봉15길 6",
+        "longitude": 127.0309,
+        "latitude": 37.5617,
+        "type": "heatshelter"
+    },
+    {
+        "name": "왕십리자이아파트 경로당",
+        "address": "서울특별시 성동구 난계로 100",
+        "longitude": 127.02463,
+        "latitude": 37.56151,
+        "type": "heatshelter"
+    },
+    {
+        "name": "무학봉 경로당(행당1동관리)",
+        "address": "서울특별시 성동구 무학봉18길 4-2 ",
+        "longitude": 127.031761,
+        "latitude": 37.561184,
+        "type": "heatshelter"
+    },
+    {
+        "name": "행현경로당",
+        "address": "서울특별시 성동구 행당로11길 20",
+        "longitude": 127.030374,
+        "latitude": 37.559405,
+        "type": "heatshelter"
+    },
+    {
+        "name": "행당2동주민센터",
+        "address": "서울특별시 성동구 행당로9길 9",
+        "longitude": 127.02936,
+        "latitude": 37.558238,
+        "type": "heatshelter"
+    },
+    {
+        "name": "행당제2경로당",
+        "address": "서울특별시 성동구  행당로11길  14-9",
+        "longitude": 127.030945,
+        "latitude": 37.559211,
+        "type": "heatshelter"
+    },
+    {
+        "name": "행당대림아파트 제1경로당",
+        "address": "서울특별시 성동구 행당동 행당로  79   (행당동)",
+        "longitude": 127.027096,
+        "latitude": 37.557887,
+        "type": "heatshelter"
+    },
+    {
+        "name": "행당대림아파트 제2경로당",
+        "address": "서울특별시 성동구 행당동 행당로  79   (행당동)",
+        "longitude": 127.027096,
+        "latitude": 37.557887,
+        "type": "heatshelter"
+    },
+    {
+        "name": "일심경로당",
+        "address": "서울특별시 성동구 무학봉15라길 4",
+        "longitude": 127.030426,
+        "latitude": 37.562671,
+        "type": "heatshelter"
+    }
+]

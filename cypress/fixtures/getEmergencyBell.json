@@ -1,0 +1,10 @@
+[
+    {
+        "location": "일원터널 내 보행로",
+        "address": "서울특별시 강남구 개포동 산46-11",
+        "function": "경고등 + 경보음 + CCTV",
+        "longitude": 127.074152,
+        "latitude": 37.486791,
+        "type": "emergencybell"
+    }
+]

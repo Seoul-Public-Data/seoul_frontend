@@ -78,8 +78,8 @@ function SearchBox({
         placeholder={placeholder}
       />
       {isSearching && (
-        <SearchResultContainer>
-          <MyPositionButton onClick={selectCurrent}>
+        <SearchResultContainer data-cy="searchResultWrapper">
+          <MyPositionButton data-cy="myPositionButton" onClick={selectCurrent}>
             <img src={near_me} alt="near_me" />
             내위치
           </MyPositionButton>
@@ -201,7 +201,7 @@ function SearchContainer({ type, map }: ContainerProps) {
         setName={setEndName}
       />
       {type === 'end' && (
-        <Button type="button" onClick={findRoute}>
+        <Button data-cy="routeFindBtn" type="button" onClick={findRoute}>
           길찾기
         </Button>
       )}

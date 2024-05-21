@@ -34,6 +34,7 @@ function Content() {
         <Label htmlFor="safetyCheckbox">
           안전시설 모두보기
           <Checkbox
+            data-cy="bottomSheet_checkbox"
             id="safetyCheckbox"
             type="checkbox"
             checked={isChecked}
