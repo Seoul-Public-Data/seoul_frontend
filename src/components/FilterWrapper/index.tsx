@@ -55,6 +55,7 @@ function FilterWrapper() {
 
   return (
     <Wrapper
+      data-cy="filterBtnWrapper"
       ref={scrollRef}
       onMouseDown={onDragStart}
       onMouseMove={isDrag ? onThrottledDragMove : undefined}

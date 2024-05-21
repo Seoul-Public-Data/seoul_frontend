@@ -4,7 +4,7 @@ import { Handle, Wrapper } from './style';
 export default function BottomSheetHeader() {
   return (
     <Wrapper>
-      <Handle />
+      <Handle data-cy="bottomSheet_handle" />
     </Wrapper>
   );
 }
